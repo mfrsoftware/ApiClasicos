@@ -1,0 +1,59 @@
+{
+	"clasicos":[
+		{
+			"marca":"SEAT",
+			"modelo":"1500"
+		},{
+			"marca":"SEAT",
+			"modelo":"600"
+		},{
+			"marca":"SEAT",
+			"modelo":"124"
+		},{
+			"marca":"SEAT",
+			"modelo":"850"
+		},{
+			"marca":"SEAT",
+			"modelo":"127"
+		},{
+			"marca":"Renault",
+			"modelo":"4CV"
+		},{
+			"marca":"Renault",
+			"modelo":"8"
+		},{
+			"marca":"Renault",
+			"modelo":"5"
+		},{
+			"marca":"Renault",
+			"modelo":"12"
+		},{
+			"marca":"Renault",
+			"modelo":"4"
+		},{
+			"marca":"Renault",
+			"modelo":"Dauphine"
+		},{
+			"marca":"Citröen",
+			"modelo":"2CV"
+		},{
+			"marca":"Citröen",
+			"modelo":"Break 3 CV"
+		},{
+			"marca":"Citröen",
+			"modelo":"Dyane 6"
+		},{
+			"marca":"Citröen",
+			"modelo":"GS"
+		},{
+			"marca":"Barreiros-Chrysler",
+			"modelo":"Dodge Dart"
+		},{
+			"marca":"AUTHI",
+			"modelo":"Mini"
+		},{
+			"marca":"Ford",
+			"modelo":"Fiesta"
+		}
+	]
+}
